@@ -152,7 +152,7 @@ Para o **visual**, foi usado um tema inspirado em **tons de papel**, com cores c
 Abaixo estão algumas imagens do projeto para ilustrar as principais análises:
 
 <p align="center">
-  <img src="https://github.com/LuucasGabriel/BookToScrap/blob/main/Design/Captura%20de%20tela%202025-07-22%20204828.png?raw=true"/>
+  <img src="https://github.com/LuucasGabriel/BookToScrap/blob/main/Design/Captura%20de%20tela%202025-07-22%20204828.png?raw=true" width="800"/>
 </p>
 
 <p align="center">
@@ -160,7 +160,7 @@ Abaixo estão algumas imagens do projeto para ilustrar as principais análises:
 </p>
 
 <p align="center">
-  <img src="[https://github.com/LuucasGabriel/ContosoRetailDWPortfolio/blob/main/Imagens/Captura%20de%20tela%202025-07-08%20210005.png?raw=true" alt="Análise Temporal](https://github.com/LuucasGabriel/BookToScrap/blob/main/Design/Captura%20de%20tela%202025-07-22%20205255.png?raw=true)" width="800"/>
+  <img src="https://github.com/LuucasGabriel/BookToScrap/blob/main/Design/Captura%20de%20tela%202025-07-22%20205255.png?raw=true" width="800"/>
 </p>
 
 ### 🔗 Autor
